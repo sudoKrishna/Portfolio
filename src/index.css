@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: anzo1;
+    src: url(./assets/FoundersGrotesk-Semibold.woff)
+}
+@font-face {
+    font-family: Neue;
+    src: url(./assets/NeueMontreal-Regular.woff2)
+}
+@font-face {
+    font-family: Founder1;
+    src: url(./assets/FoundersGrotesk-Semibold.woff2)
+}
